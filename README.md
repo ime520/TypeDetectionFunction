@@ -1,0 +1,2 @@
+# TypeDetectionFunction
+一个被封装用于JavaScript类型检测的函数
